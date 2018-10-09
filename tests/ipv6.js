@@ -17,6 +17,8 @@ exports.testErrors = function(test)
   test.equal(base85.decode(new Buffer(19), 'ipv6'), false);
   test.equal(base85.decode(new Buffer(21), 'ipv6'), false);
 
+  test.equal(base85.decode(new Buffer(20), 'ipv6'), false); /* Invalid character '\0' */
+
   test.done();
 };
 
