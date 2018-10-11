@@ -1,3 +1,8 @@
+This is a fork of the [noseglid/base85](https://github.com/noseglid/base85)
+where [bignumber.js](https://github.com/MikeMcl/bignumber.js/) (pure Javascript) is used instead of [node-bignum](https://github.com/justmoon/node-bignum) (has C++ extension)
+so that this library can be used in browsers.
+
+
 [![Build Status](https://travis-ci.org/noseglid/base85.png?branch=master)](https://travis-ci.org/noseglid/base85)
 
 # base85
