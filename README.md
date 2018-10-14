@@ -3,7 +3,7 @@ where [bignumber.js](https://github.com/MikeMcl/bignumber.js/) (pure Javascript)
 so that this library can be used in browsers.
 
 
-[![Build Status](https://travis-ci.org/noseglid/base85.png?branch=master)](https://travis-ci.org/noseglid/base85)
+[![Build Status](https://travis-ci.org/blukat29/base85.png?branch=master)](https://travis-ci.org/blukat29/base85)
 
 # base85
 
